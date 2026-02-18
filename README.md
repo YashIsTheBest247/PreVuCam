@@ -42,6 +42,7 @@ This ensures:
 
 ## 📂 Project Structure
 
+```bash
 PreVuCam/
 │
 ├── app.py # Streamlit frontend (main UI)
@@ -49,6 +50,7 @@ PreVuCam/
 ├── uploads/ # Temporary uploaded videos
 ├── all_motion_events.mp4 # Final compiled output
 └── README.md
+```
 
 
 
