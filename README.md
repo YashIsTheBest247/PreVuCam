@@ -42,7 +42,13 @@ This ensures:
 
 ## 📂 Project Structure
 
-
+PreVuCam/
+│
+├── app.py # Streamlit frontend (main UI)
+├── try.py # Motion detection processing script
+├── uploads/ # Temporary uploaded videos
+├── all_motion_events.mp4 # Final compiled output
+└── README.md
 
 
 
