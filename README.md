@@ -60,7 +60,7 @@ PreVuCam/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YashIsTheBest247/PreVuCam
 cd PreVuCam
 ```
 
