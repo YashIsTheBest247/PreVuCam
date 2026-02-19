@@ -42,7 +42,15 @@ This ensures:
 
 ## 📂 Project Structure
 
-
+```bash
+PreVuCam/
+│
+├── app.py # Streamlit frontend (main UI)
+├── try.py # Motion detection processing script
+├── uploads/ # Temporary uploaded videos
+├── all_motion_events.mp4 # Final compiled output
+└── README.md
+```
 
 
 
@@ -52,7 +60,7 @@ This ensures:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YashIsTheBest247/PreVuCam
 cd PreVuCam
 ```
 
